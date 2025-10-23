@@ -9,8 +9,8 @@ import base64
 
 # === 🟢 Вводные переменные ===
 CATEGORY_URL = "https://gorgia.ge/ka/bagi/"
-PAGE_NUMBER = 4
-START_ID = 91
+PAGE_NUMBER = 1
+START_ID = 1
 
 # === Настройки ===
 BASE_URL = "https://gorgia.ge"

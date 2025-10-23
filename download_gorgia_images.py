@@ -5,7 +5,7 @@ from pathlib import Path
 import urllib.parse
 
 # === Настройки ===
-JSON_FILE = "gorgia_products_full.json"
+JSON_FILE = "sad1.json"
 SAVE_DIR = Path("images_webp")
 SAVE_DIR.mkdir(exist_ok=True)
 

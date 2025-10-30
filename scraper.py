@@ -8,13 +8,13 @@ from pathlib import Path
 import base64
 
 # === 🟢 Категории ===
-CATEGORY = "Сантехника"
-SUB_CATEGORY = "Смесители"  # Может быть пустым
+CATEGORY = "Климатическое оборудование"
+SUB_CATEGORY = "Вентиляция"  # Может быть пустым
 
 # === 🟢 Вводные переменные ===
-CATEGORY_URL = "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi"
-PAGE_NUMBER = 2
-START_ID = 31
+CATEGORY_URL = "https://gorgia.ge/ka/klimaturi-teqnika/saventilacio-sistemebi/"
+PAGE_NUMBER = 4
+START_ID = 91
 
 # === Настройки ===
 BASE_URL = "https://gorgia.ge"

@@ -7,7 +7,7 @@ def transfer_descriptions():
     Старое описание перезаписывается новым.
     """
     source_file = 'up.json'
-    target_file = 'gorgia_ka_aveji_magidebi-da-merxebi_page_1_in_stock.json'
+    target_file = 'gorgia_ka_klimaturi-teqnika_saventilacio-sistemebi_page_1_in_stock.json'
     output_file = 'descr.json'
 
     try:

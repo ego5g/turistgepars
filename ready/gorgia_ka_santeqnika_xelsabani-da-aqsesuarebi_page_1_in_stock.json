@@ -1,0 +1,316 @@
+    [
+      {
+        "id": 121,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Пьедестал для раковины белый",
+        "price": 69,
+        "description": "Белый пьедестал-опора для раковины. Прочная конструкция обеспечивает надежную поддержку. Универсален и подходит для различных моделей раковин.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/5XmcbPj3/60c0315e61f4.webp",
+        "image_urls": [
+          "https://i.ibb.co/RGycHWPH/f471bddec763.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/xelsabanis-fexi-tetri/"
+      },
+      {
+        "id": 122,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина Комфорт белая",
+        "price": 80,
+        "description": "Компактная белая раковина серии Комфорт. Практичный размер идеален для небольших ванных комнат. Удобна в повседневном использовании.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/d45fF4Yh/9519bf450966.webp",
+        "image_urls": [
+          "https://i.ibb.co/PvnkQZbc/c41face1f997.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/xelsabani-komforti-tetri/"
+      },
+      {
+        "id": 123,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина стандартная белая",
+        "price": 80,
+        "description": "Классическая белая раковина стандартного размера. Надежная конструкция и простой дизайн. Подходит для любых интерьеров ванной комнаты.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/VWChS6np/e5b725e88290.webp",
+        "image_urls": [
+          "https://i.ibb.co/zWD41yFr/734f707df2b6.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/xelsabani-standarti-tetri/"
+      },
+      {
+        "id": 124,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина овальная ТП150 40х50 см",
+        "price": 71,
+        "description": "Овальная раковина размером 40х50 см. Изящная форма добавляет элегантности. Практичный размер для ванной комнаты.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/MyQH76bn/03963125ec5e.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ovaluri-xelsabani-tp150-40x50/"
+      },
+      {
+        "id": 125,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина на коротком пьедестале ТП150 50 см",
+        "price": 123,
+        "description": "Раковина на коротком пьедестале высотой 50 см. Удобная высота для умывания. Компактный дизайн экономит место в ванной.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/TqRWwvG3/63e00da1f191.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-tp150-50-sm/"
+      },
+      {
+        "id": 126,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина SEDEF SD060 60 см",
+        "price": 107,
+        "description": "Раковина серии SEDEF размером 60 см. Стильный дизайн и высокое качество. Отлично подходит для современных ванных комнат.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/PGDcrGxc/16b0fbc8ea2f.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-sedef-sd060-250-60სმ/"
+      },
+      {
+        "id": 127,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина на коротком пьедестале SEDEF SD060 60 см",
+        "price": 159,
+        "description": "Раковина серии SEDEF на коротком пьедестале размером 60 см. Удобная конструкция и элегантный вид. Идеальна для компактных ванных комнат.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/2YttRcFX/cc93ccb60af1.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-მოკლე-ფეხით-sedef-sd060-60-სმ/"
+      },
+      {
+        "id": 128,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Пьедестал короткий SEDEF SD260",
+        "price": 52,
+        "description": "Короткий пьедестал-опора SEDEF SD260. Прочная конструкция и надежность. Универсален для большинства моделей раковин.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/C3VgP7CC/9a260cead3b4.webp",
+        "image_urls": [
+          "https://i.ibb.co/TxTW0qbV/7defeaf26497.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-მოკლე-ფეხი-sedef-sd260-sd060/"
+      },
+      {
+        "id": 129,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина Лара LR060",
+        "price": 132,
+        "description": "Раковина серии Лара размером LR060. Изысканный дизайн и надежная конструкция. Подходит для ванных комнат любого стиля.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/TDSb3V7v/ffcb1e1adc33.webp",
+        "image_urls": [
+          "https://i.ibb.co/4Rt4N7G8/ebedc22c2c63.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-lara-lr060-lr260/"
+      },
+      {
+        "id": 130,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина на коротком пьедестале Лара LR060 60 см",
+        "price": 204,
+        "description": "Раковина серии Лара на коротком пьедестале размером 60 см. Премиум качество и элегантный дизайн. Обеспечивает комфорт и практичность.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/k604pPWS/e4da62a5edc4.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-lara-lr060-60-sm/"
+      },
+      {
+        "id": 131,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина адаптированная для инвалидов BD060 60 см",
+        "price": 184,
+        "description": "Адаптированная раковина BD060 размером 60 см для людей с ограниченными возможностями. Эргономичный дизайн и удобное использование. Безопасность и комфорт гарантированы.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/BH2b0n2G/844b2d14a01e.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/shshm-adaptirebuli-xelsabani/ხელსაბანი-handicapped-bd060-60სმ/"
+      },
+      {
+        "id": 132,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Пьедестал PITTA PA250 55 см",
+        "price": 59,
+        "description": "Пьедестал-опора PITTA PA250 высотой 55 см. Прочная конструкция и надежность. Идеален для стандартных раковин.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/yc3Hryvx/01e86f065ace.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-ფეხი-pitta-pa250-055-55სმ/"
+      },
+      {
+        "id": 133,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина складная ТП205 39х51 см",
+        "price": 94,
+        "description": "Складная раковина компактного размера 39х51 см. Экономит место при необходимости. Практичное решение для малогабаритных помещений.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/N6Z2nmhm/72319abd47f0.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/amosakravi-xelsabani/amosakravi-xelsabani-tp205-39x51-sm/"
+      },
+      {
+        "id": 134,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина овальная ТП145 36х45 см",
+        "price": 79,
+        "description": "Овальная раковина размером 36х45 см. Компактный размер идеален для небольших ванных комнат. Изящная форма добавляет элегантности.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/MDsypjp4/30fe9bfb40af.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ოვალური-ხელსაბანი-tp145-36x45/"
+      },
+      {
+        "id": 136,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина овальная ТП030 30х45 см",
+        "price": 67,
+        "description": "Маленькая овальная раковина размером 30х45 см. Очень компактна для экономии пространства. Подходит для гостевых туалетов.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/b4kCCP4/9f04e450f109.webp",
+        "image_urls": [
+          "https://i.ibb.co/8DjST7hm/0605ccddd777.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-ოვალური-tp030-30x45/"
+      },
+      {
+        "id": 137,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Пьедестал короткий Лара LR260",
+        "price": 72,
+        "description": "Короткий пьедестал-опора серии Лара LR260. Надежная конструкция и элегантный дизайн. Подходит для раковин серии Лара.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/CKsKNfXZ/16196a99eb11.webp",
+        "image_urls": [
+          "https://i.ibb.co/xtPMRbdZ/f0784eff99b1.jpg",
+          "https://i.ibb.co/3Y0xjhVS/5b85c1cc267f.jpg"
+        ],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-მოკლე-ფეხი-lara-lr260/"
+      },
+      {
+        "id": 138,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина на пьедестале PITTA PA055 55 см",
+        "price": 184,
+        "description": "Раковина на пьедестале серии PITTA PA055 размером 55 см. Удобная высота и надежная конструкция. Идеальна для ежедневного использования.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/1fLXSHVp/5f8c2c707cfc.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-ფეხით-pitta-pa055-55სმ/"
+      },
+      {
+        "id": 139,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина на коротком пьедестале ТП030 45 см",
+        "price": 112,
+        "description": "Компактная раковина на коротком пьедестале высотой 45 см. Экономит место в небольших ванных комнатах. Практичное и удобное решение.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/jPDfxczm/c93096dadbcf.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-tp030-45-sm/"
+      },
+      {
+        "id": 141,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина для рук PITTA PA055 55 см",
+        "price": 125,
+        "description": "Компактная раковина для рук серии PITTA PA055 размером 55 см. Практичный размер для туалетов. Удобна и функциональна.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/MkX0HLxr/cc06e941c026.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-pitta-pa055-250-55სმ/"
+      },
+      {
+        "id": 143,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Пьедестал короткий SEDEF SD270",
+        "price": 45,
+        "description": "Короткий пьедестал-опора SEDEF SD270. Компактная конструкция и надежность. Экономичное решение для стандартных раковин.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/cSYytRxy/9765dbac411d.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/xelsabanis-mokle-fexi-sedef-sd270-tp030/"
+      },
+      {
+        "id": 146,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина для рук на пьедестале TR363",
+        "price": 102,
+        "description": "Практичная раковина для рук на пьедестале серии TR363. Удобный размер и надежная конструкция. Подходит для ванных комнат и туалетов.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/F4dYjP1F/2cb169b83bb0.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-fexit-tr363/"
+      },
+      {
+        "id": 147,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина для рук на пьедестале Victory TR386",
+        "price": 131,
+        "description": "Раковина для рук на пьедестале серии Victory TR386. Удобная конструкция и надежность. Идеальна для домов и офисов.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/d059HpqN/dd33d006e479.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-fexit-victory-tr386/"
+      },
+      {
+        "id": 148,
+        "category": "Сантехника",
+        "sub_category": "Раковины",
+        "title": "Раковина для рук на пьедестале TR364",
+        "price": 91,
+        "description": "Компактная раковина для рук на пьедестале серии TR364. Удобный размер и надежная конструкция. Практичное решение для небольших помещений.",
+        "availability": "В наличии",
+        "in_stock": true,
+        "image_url": "https://i.ibb.co/0pGM21QV/d82ff52abf1b.webp",
+        "image_urls": [],
+        "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-ფეხით-tr364/"
+      }
+    ]

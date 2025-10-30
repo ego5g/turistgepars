@@ -1,0 +1,418 @@
+[
+  {
+    "id": 121,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Ножка полотенца белая.",
+    "price": 69,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/5XmcbPj3/60c0315e61f4.webp",
+    "image_urls": [
+      "https://i.ibb.co/RGycHWPH/f471bddec763.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/xelsabanis-fexi-tetri/"
+  },
+  {
+    "id": 122,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце Комфорт белое",
+    "price": 80,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/d45fF4Yh/9519bf450966.webp",
+    "image_urls": [
+      "https://i.ibb.co/PvnkQZbc/c41face1f997.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/xelsabani-komforti-tetri/"
+  },
+  {
+    "id": 123,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Платок стандартный белый",
+    "price": 80,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/VWChS6np/e5b725e88290.webp",
+    "image_urls": [
+      "https://i.ibb.co/zWD41yFr/734f707df2b6.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/xelsabani-standarti-tetri/"
+  },
+  {
+    "id": 124,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце овальное ТП150 40Х50",
+    "price": 71,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/MyQH76bn/03963125ec5e.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ovaluri-xelsabani-tp150-40x50/"
+  },
+  {
+    "id": 125,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце на короткой ножке ТП150 50 см",
+    "price": 123,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/TqRWwvG3/63e00da1f191.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-tp150-50-sm/"
+  },
+  {
+    "id": 126,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце SEDEF SD060 (250) 60 см",
+    "price": 107,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/PGDcrGxc/16b0fbc8ea2f.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-sedef-sd060-250-60სმ/"
+  },
+  {
+    "id": 127,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце на короткой ножке SEDEF (SD060) 60 см",
+    "price": 159,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/2YttRcFX/cc93ccb60af1.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-მოკლე-ფეხით-sedef-sd060-60-სმ/"
+  },
+  {
+    "id": 128,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце короткая ножка SEDEF SD260 (SD060)",
+    "price": 52,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/C3VgP7CC/9a260cead3b4.webp",
+    "image_urls": [
+      "https://i.ibb.co/TxTW0qbV/7defeaf26497.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-მოკლე-ფეხი-sedef-sd260-sd060/"
+  },
+  {
+    "id": 129,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце Лара LR060 (LR260)",
+    "price": 132,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/TDSb3V7v/ffcb1e1adc33.webp",
+    "image_urls": [
+      "https://i.ibb.co/4Rt4N7G8/ebedc22c2c63.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-lara-lr060-lr260/"
+  },
+  {
+    "id": 130,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце на короткой ножке LARA (LR060) 60 см",
+    "price": 204,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/k604pPWS/e4da62a5edc4.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-lara-lr060-60-sm/"
+  },
+  {
+    "id": 131,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Платок для инвалидов BD060 60 см",
+    "price": 184,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/BH2b0n2G/844b2d14a01e.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/shshm-adaptirebuli-xelsabani/ხელსაბანი-handicapped-bd060-60სმ/"
+  },
+  {
+    "id": 132,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Ножка для полотенца PITTA PA250 (055) 55 см",
+    "price": 59,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/yc3Hryvx/01e86f065ace.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-ფეხი-pitta-pa250-055-55სმ/"
+  },
+  {
+    "id": 133,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Платок складной ТП205 39Х51 см",
+    "price": 94,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/N6Z2nmhm/72319abd47f0.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/amosakravi-xelsabani/amosakravi-xelsabani-tp205-39x51-sm/"
+  },
+  {
+    "id": 134,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце овальное ТП145 36Х45",
+    "price": 79,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/MDsypjp4/30fe9bfb40af.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ოვალური-ხელსაბანი-tp145-36x45/"
+  },
+  {
+    "id": 135,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Уголок для полотенец Vitroya (VT145) 45 см",
+    "price": 206,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/BM-00088953_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-fexit-kutxis-vitroya-vt145-45sm/"
+  },
+  {
+    "id": 136,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце овальное ТП030 30Х45",
+    "price": 67,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/b4kCCP4/9f04e450f109.webp",
+    "image_urls": [
+      "https://i.ibb.co/8DjST7hm/0605ccddd777.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-ოვალური-tp030-30x45/"
+  },
+  {
+    "id": 137,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце короткое Лара LR260",
+    "price": 72,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/CKsKNfXZ/16196a99eb11.webp",
+    "image_urls": [
+      "https://i.ibb.co/xtPMRbdZ/f0784eff99b1.jpg",
+      "https://i.ibb.co/3Y0xjhVS/5b85c1cc267f.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/ხელსაბანის-მოკლე-ფეხი-lara-lr260/"
+  },
+  {
+    "id": 138,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце со стопой PITTA (PA055) 55 см",
+    "price": 184,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/1fLXSHVp/5f8c2c707cfc.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-ფეხით-pitta-pa055-55სმ/"
+  },
+  {
+    "id": 139,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце на короткой ножке TP030 45 см",
+    "price": 112,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/jPDfxczm/c93096dadbcf.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-mokle-fexit-tp030-45-sm/"
+  },
+  {
+    "id": 140,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Салфетка угловая ТП 027 33*53",
+    "price": 145,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/13/ab052150_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/5/ab052150.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/kutxis-xelsabani-tp-027-3353/"
+  },
+  {
+    "id": 141,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце для рук PITTA PA055 (250) 55 см",
+    "price": 125,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/MkX0HLxr/cc06e941c026.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-pitta-pa055-250-55სმ/"
+  },
+  {
+    "id": 142,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце для рук ТП 225 43,5х52,5 см",
+    "price": 101,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/ab033277-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/68/ab033277-_2_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-nijarebi/xelsabanis-nijara/ხელსაბანი-tp-225-43.5x52.5სმ/"
+  },
+  {
+    "id": 143,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце короткая ножка SEDEF SD270 (TP030)",
+    "price": 45,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/cSYytRxy/9765dbac411d.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/xelsabanis-mokle-fexi-sedef-sd270-tp030/"
+  },
+  {
+    "id": 144,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце короткая ножка ВТ260 (ВТ056) ВИТРОЯ",
+    "price": 78,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/65/ab048797_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabanis-makompleqteblebi-da-aqsesuarebi/xelsabanis-fexi/xelsabanis-mokle-fexi-vt260-vt056-vitroya/"
+  },
+  {
+    "id": 145,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Вешалка для полотенец Soluzione 10AC77057 57 см",
+    "price": 153,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/BM-00058376-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/68/BM-00058376-_2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/68/BM-00058376-_3_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/amosakravi-xelsabani/xelsabani-amosakravi-soluzione-10ac77057-57-cm/"
+  },
+  {
+    "id": 146,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце для рук с ножкой TR363",
+    "price": 102,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/F4dYjP1F/2cb169b83bb0.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-fexit-tr363/"
+  },
+  {
+    "id": 147,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце для рук с ножками VICTORY TR386",
+    "price": 131,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/d059HpqN/dd33d006e479.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/xelsabani-fexit-victory-tr386/"
+  },
+  {
+    "id": 148,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце для рук с ножкой TR364",
+    "price": 91,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/0pGM21QV/d82ff52abf1b.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/xelsabani-fexit/ხელსაბანი-ფეხით-tr364/"
+  },
+  {
+    "id": 149,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Полотенце SISTEMA Y 10SY50060 60 см",
+    "price": 362,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/00-00012344-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/68/00-00012344-_2_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/dasadgami-xelsabani/dasadgami-xelsabani-sistema-y-10sy50060-60სმ/"
+  },
+  {
+    "id": 150,
+    "category": "Сантехника",
+    "sub_category": "Раковины",
+    "title": "Вешалка для полотенец Soluzione 10AR77046 46 см",
+    "price": 116,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/BM-00058377-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/68/BM-00058377.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/xelsabani-da-aqsesuarebi/xelsabani/amosakravi-xelsabani/xelsabani-amosakravi-soluzione-10ar77046-46-სმ/"
+  }
+]

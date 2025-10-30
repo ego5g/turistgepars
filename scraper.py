@@ -8,17 +8,17 @@ from pathlib import Path
 import base64
 
 # === 🟢 Категории ===
-CATEGORY = "Мебель"
-SUB_CATEGORY = "Столы"  # Может быть пустым
+CATEGORY = "Сантехника"
+SUB_CATEGORY = "Смесители"  # Может быть пустым
 
 # === 🟢 Вводные переменные ===
-CATEGORY_URL = "https://gorgia.ge/ka/aveji/magidebi-da-merxebi"
-PAGE_NUMBER = 3
-START_ID = 341
+CATEGORY_URL = "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi"
+PAGE_NUMBER = 2
+START_ID = 31
 
 # === Настройки ===
 BASE_URL = "https://gorgia.ge"
-IMGBB_API_KEY = "ea604eb5723e81ae9239838ad3396984"
+IMGBB_API_KEY = "2b660c2330495ea5aaa051e574818f8f"
 SAVE_DIR = Path("images_temp")
 SAVE_DIR_FALSE = SAVE_DIR / "false"
 SAVE_DIR.mkdir(exist_ok=True)

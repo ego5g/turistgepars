@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Гигиеническая душевая лейка UGS 1060200",
+    "price": 12,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/57/BM-00194173_shower_system_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/higienuri-sashxape/ჰიგიენური-საშხაპე-ყურმილი-ugs-1060200/"
+  },
+  {
+    "id": 6,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Душевая лейка UGS 2040015",
+    "price": 8,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/57/BM-00194172_shower_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/sashxape-yurmili/საშხაპე-ყურმილი-ugs-2040015/"
+  },
+  {
+    "id": 7,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Душевая лейка с подставкой UGS 1041907",
+    "price": 25,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/59/BM-00194167_Shower_head_with_stand_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/sashxape-sistema/საშხაპე-ყურმილი-დგარით-ugs-1041907/"
+  },
+  {
+    "id": 12,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Гигиеническая душевая лейка черная UGS 1060210",
+    "price": 12,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/57/BM-00194174_shower_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/higienuri-sashxape/ჰიგიენური-საშხაპე-ყურმილი-black-ugs-1060210/"
+  },
+  {
+    "id": 16,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Душевая лейка UGS 2040011",
+    "price": 14,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/57/BM-00194171_shower_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/sashxape-yurmili/sashxape-yurmili-ugs-2040011/"
+  },
+  {
+    "id": 25,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Душевая система черный UGS 1054202",
+    "price": 79,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/57/BM-00194149_shower_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/57/BM-00194149-1_shower.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/sashxape-sistema/საშხაპე-სისტემა-black-ugs-1054202/"
+  },
+  {
+    "id": 26,
+    "category": "Сантехника",
+    "sub_category": "Смесители",
+    "title": "Комплект смесителя (с большой душевой лейкой) 402199114GE1",
+    "price": 383,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/68/BM-00117930_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/santeqnika/onkanebi-da-sashxape-sistemebi/sashxape-sistema-da-aqsesuarebi/sashxape-sistema-shemrevit/shemrevebis-nakrebi-didi-sashxape-yurmilit-402199114ge1/"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": 61,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул барный KJC-115 черный",
+    "price": 105,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/76/BM-00211700-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211700-_2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211700-_3_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211700-_4_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/baris-skami/ბარის-სკამი-kjc-115-შავი/"
+  },
+  {
+    "id": 62,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул деревянный SYNERGY DARK GREY",
+    "price": 89,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/wNK29LmZ/2905670838b6.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-ხის-synergy-dark-grey/"
+  },
+  {
+    "id": 63,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул деревянный ГРУЗИЯ - ПУ ЧЕРНЫЙ",
+    "price": 105,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/61/BM-00184129_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-ხის-georgia-pu-black/"
+  },
+  {
+    "id": 64,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов LM-4553 - (Д-09)",
+    "price": 89,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/62/BM-00199869_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/62/BM-00199869-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-lm-4553-d-09/"
+  },
+  {
+    "id": 65,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Офисный стул BX8029-1 синий",
+    "price": 99,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/74/BM-00206581_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/saofise-savardzeli-da-skami/საოფისე-სავარძელი-bx8029-1-ლურჯი/"
+  },
+  {
+    "id": 66,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Барный стул J68B черный",
+    "price": 125,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/76/BM-00211701-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211701-_2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211701-_3_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211701-_4_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/baris-skami/ბარის-სკამი-j68b-შავი/"
+  },
+  {
+    "id": 67,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной KJC-3335 серый",
+    "price": 175,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/76/BM-00211705-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211705-_2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211705-_3_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/76/BM-00211705-_4_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-kjc-3335-ნაცრისფერი/"
+  },
+  {
+    "id": 68,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов МН-882 - (БФ-04)",
+    "price": 215,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/73/BM-00189043__1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/73/BM-00189043__2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/70/BM-00189043.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-mn-882-bf-04/"
+  },
+  {
+    "id": 69,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной YZ-983 - БЕЛЫЙ",
+    "price": 99,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/5gLvpPL5/59fc8ed6c758.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-yz-983-white/"
+  },
+  {
+    "id": 70,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-2850 (BJORN) серый",
+    "price": 145,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/wN88qLrW/c1aae81a19e8.webp",
+    "image_urls": [
+      "https://i.ibb.co/VYQCt4dH/94782fb2cd0c.jpg",
+      "https://i.ibb.co/M0zY4YT/277f5fc7e7aa.jpg",
+      "https://i.ibb.co/RGjM9hHz/9c44cb9f384e.jpg",
+      "https://i.ibb.co/xS9Yzqct/57af70259f12.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-2850-bjorn-ნაცრისფერი/"
+  },
+  {
+    "id": 71,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Офисный стул OC8056 серый",
+    "price": 189,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/74/BM-00206584_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/saofise-savardzeli-da-skami/საოფისე-სავარძელი-oc8056-ნაცრისფერი/"
+  },
+  {
+    "id": 72,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов ДР-141 (БФ-03:БФ-15)",
+    "price": 179,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/TDk6nK13/5d18655900d1.webp",
+    "image_urls": [
+      "https://i.ibb.co/WNSyG5p4/04d65c925a99.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-dr-141-bf-03-bf-15/"
+  },
+  {
+    "id": 73,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов ДР-148 (БФ-15:БФ-14)",
+    "price": 179,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/Kz8dfdnj/b6ce1b48f339.webp",
+    "image_urls": [
+      "https://i.ibb.co/RpQL5Vv7/071df9e999b7.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-dr-148-bf-15-bf-14/"
+  },
+  {
+    "id": 74,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Табурет барный XS-2964 (UF869-8) зеленый",
+    "price": 125,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/4npXDjt2/da8ee6a5aec4.webp",
+    "image_urls": [
+      "https://i.ibb.co/G3bJjgZk/14e2fa7f3f5d.jpg",
+      "https://i.ibb.co/wF9xrQD6/ba7e4b49b73b.jpg",
+      "https://i.ibb.co/mVGsQr3s/09f68a9fa108.jpg",
+      "https://i.ibb.co/mF6m3ny5/05a70cd97de7.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/baris-skami/ბარის-სკამი-xs-2964-uf869-8-მწვანე/"
+  },
+  {
+    "id": 75,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-2745 (UF915-20) розовый",
+    "price": 99,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/51/BM-00169442-_1__-_chair_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/53/BM-00169442_-_chair.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/53/BM-00169442-1_-_chair.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/53/BM-00169442-2_-_chair.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/53/BM-00169442-3_-_chair.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/53/BM-00169442-4_-_chair.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-2745-uf915-20-ვარდისფერი/"
+  },
+  {
+    "id": 76,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-2745 (UF915-14) синий",
+    "price": 99,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/8DfsX8Mh/44ab1a426cf4.webp",
+    "image_urls": [
+      "https://i.ibb.co/RTSpxBy4/46a322d6aff3.jpg",
+      "https://i.ibb.co/G4hmd1qG/bdf0cf890550.jpg",
+      "https://i.ibb.co/x8hgsKYn/251ecc99a7eb.jpg",
+      "https://i.ibb.co/Hpqc9PHV/290cc3bebffe.jpg",
+      "https://i.ibb.co/bj7Gt4yf/e10e68a884c1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-2745-uf915-14-ლურჯი/"
+  },
+  {
+    "id": 77,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов ЕН-810 - (В-42)",
+    "price": 135,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/55/BM-00189041__-_chair_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/55/BM-00189041-1__-_chair.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/55/BM-00189041-2__-_chair.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-en-810-v-42/"
+  },
+  {
+    "id": 78,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Скамья - SJ218007 (серый♮) 100X30,5X44 CM",
+    "price": 85,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/Hfc9BPD8/5a4d5f13f912.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/ბენჩი-sj218007-grey-and-natural-100x30.5x44-cm/"
+  },
+  {
+    "id": 79,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов PY-265 - (КОРИЧНЕВЫЙ)",
+    "price": 119,
+    "description": "",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/Lz6z7JQD/439f58bb43b7.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-py-265-brown/"
+  },
+  {
+    "id": 80,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-2948 (G062-44) зеленый",
+    "price": 75,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/67w7WBD1/5ecb1728c808.webp",
+    "image_urls": [
+      "https://i.ibb.co/qYVTB18k/2f0563c79832.jpg",
+      "https://i.ibb.co/wFWgpMcK/5d04bbb80c84.jpg",
+      "https://i.ibb.co/3m6bhWVD/a38ff6ab45cd.jpg",
+      "https://i.ibb.co/yn65qPkV/3c51caf882e4.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-2948-g062-44-მწვანე/"
+  },
+  {
+    "id": 81,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной C-MLM-181782 (C-Davis-09) бежевый",
+    "price": 75,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/71/BM-00204019-_1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204019-_2_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204019-_3_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204019-_4_.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204019-_5_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-c-mlm-181782-c-davis-09-კრემისფერი/"
+  },
+  {
+    "id": 82,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной MLM-181408-C белый",
+    "price": 65,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/71/BM-00204033_jpg.webp",
+    "image_urls": [],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-mlm-181408-c-თეთრი/"
+  },
+  {
+    "id": 83,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (красный 90001) красный",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/zVXm0Trr/d972bc17ed4a.webp",
+    "image_urls": [
+      "https://i.ibb.co/nsvydfn4/2a7f56018b3e.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-red-90001-წითელი/"
+  },
+  {
+    "id": 84,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (органж 60110) оранжевый",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/62/BM-00190830_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/62/BM-00190830-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-organge-60110-ნარინჯისფერი/"
+  },
+  {
+    "id": 85,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (зеленый 90056) зеленый",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/KxS7TjTD/e92e4ad2746c.webp",
+    "image_urls": [
+      "https://i.ibb.co/T3r9H2t/6d70034e7658.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-green-90056-მწვანე/"
+  },
+  {
+    "id": 86,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (желтый 60131) желтый",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/62/BM-00190983_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/62/BM-00190983-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-yellow-60131-ყვითელი/"
+  },
+  {
+    "id": 87,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (серый 30617) серый",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/62/BM-00190984_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/62/BM-00190984-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-grey-30617-ნაცრისფერი/"
+  },
+  {
+    "id": 88,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 (синий 60125) синий",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "В наличии",
+    "in_stock": true,
+    "image_url": "https://i.ibb.co/9k4bKzLv/bf94e4e3f0a2.webp",
+    "image_urls": [
+      "https://i.ibb.co/Swdhbgvz/15aff3342f00.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-blue-60125-ცისფერი/"
+  },
+  {
+    "id": 89,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для гостиной XS-C6106 белый",
+    "price": 69,
+    "description": "Продукция поставляется в разобранном виде и требует сборки.",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/71/BM-00204279_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204279-1.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204279-2.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204279-3.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00204279-4.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-xs-c6106-თეთრი/"
+  },
+  {
+    "id": 90,
+    "category": "Мебель",
+    "sub_category": "Стулья",
+    "title": "Стул для приемов РР-725 - (БФ-15)",
+    "price": 105,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/55/BM-00189073__-_chair_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/55/BM-00189073-1__-_chair.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/aveji/skamebi/misagebi-otaxis-skami/სკამი-მისაღების-rr-725-bf-15/"
+  }
+]

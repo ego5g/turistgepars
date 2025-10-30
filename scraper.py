@@ -9,16 +9,16 @@ import base64
 
 # === 🟢 Категории ===
 CATEGORY = "Мебель"
-SUB_CATEGORY = "Стулья"  # Может быть пустым
+SUB_CATEGORY = "Столы"  # Может быть пустым
 
 # === 🟢 Вводные переменные ===
-CATEGORY_URL = "https://gorgia.ge/ka/aveji/skamebi/"
+CATEGORY_URL = "https://gorgia.ge/ka/aveji/magidebi-da-merxebi"
 PAGE_NUMBER = 3
-START_ID = 61
+START_ID = 341
 
 # === Настройки ===
 BASE_URL = "https://gorgia.ge"
-IMGBB_API_KEY = "16ccb20b7d07ea5522785bbda2a2ca64"
+IMGBB_API_KEY = "ea604eb5723e81ae9239838ad3396984"
 SAVE_DIR = Path("images_temp")
 SAVE_DIR_FALSE = SAVE_DIR / "false"
 SAVE_DIR.mkdir(exist_ok=True)

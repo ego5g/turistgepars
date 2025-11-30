@@ -1,0 +1,79 @@
+[
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Набор миниатюрных машинок для увлекательных игр дома и на улице. Отличный подарок маленьким автолюбителям.",
+    "id": 9,
+    "image_url": "https://i.ibb.co/qYXDr25z/e33befd0d80a.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-manqanebi-207/",
+    "price": 3,
+    "title": "Автомобили 207 UCAR"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Полный игровой набор с рельсами, поездами и станциями. Идеально подойдёт для создания мини-железной дороги дома. Стимулирует внимание и воображение.",
+    "id": 13,
+    "image_url": "https://i.ibb.co/HDdkqKp2/7bbcf8b0cf5d.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/satamasho-matareblis-nakrebi-43-nawiliani-ucar/",
+    "price": 14,
+    "title": "Набор игрушечных поездов UCAR, 43 предмета"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Прочный трактор UCAR с большими колёсами и подвижным ковшом. Отлично подойдёт для игр в песочнице и дома.",
+    "id": 22,
+    "image_url": "https://i.ibb.co/svKv5bG3/c6bff8b24d94.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ტრაქტორი-55-ucar/",
+    "price": 10,
+    "title": "Трактор 55 УКАР"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Большой грузовик длиной 42 см с подвижным кузовом. Подходит для игр с песком и перевозки игрушек. Прочный и надёжный.",
+    "id": 27,
+    "image_url": "https://i.ibb.co/x4DSNyY/93a48180bfc0.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/satvirto-manqana-42-sm-02-ucar/",
+    "price": 11,
+    "title": "Грузовик 42 см 02 UCAR"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Стильный мотоцикл для юных гонщиков! Прочный корпус, яркий дизайн и реалистичные детали подарят вашему ребёнку море впечатлений от игры.",
+    "id": 33,
+    "image_url": "https://i.ibb.co/zHJ6BNwb/c1b8aa7f169d.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/moto-94-441/",
+    "price": 46,
+    "title": "Мото - 94-441"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Очаровательный набор красоты для маленьких модниц! В комплекте всё необходимое для игры в салон красоты. Помогает развивать фантазию и творческое мышление.",
+    "id": 35,
+    "image_url": "https://i.ibb.co/TqBM3fzY/d53c0b9f45c7.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/silamazis-nakrebi-123-ucar/",
+    "price": 29,
+    "title": "Набор красоты 123 UCAR"
+  },
+  {
+    "availability": "Нет в наличии",
+    "category": "Игрушки",
+    "description": "Яркий игровой набор кухни для детей с любимыми персонажами. Отличный способ познакомить ребёнка с бытом через увлекательную игру.",
+    "id": 36,
+    "image_url": "https://i.ibb.co/fGNQ00WP/45163f61bf99.webp",
+    "in_stock": false,
+    "link": "https://gorgia.ge/ka/sabavshvo/satamasho/princesa-uniqornis-samzareulos-nakrebi-125-ucar/",
+    "price": 29,
+    "title": "Кухонный гарнитур Princess Unicorn 125 UCAR"
+  }
+]

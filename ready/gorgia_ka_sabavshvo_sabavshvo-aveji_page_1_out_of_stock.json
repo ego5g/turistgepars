@@ -1,0 +1,33 @@
+[
+  {
+    "id": 384,
+    "category": "Мебель",
+    "sub_category": "Детская мебель",
+    "title": "Детский стол и стул 180 (розовый).",
+    "price": 175,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/61/BM-00191321_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/61/BM-00191321-1.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/61/BM-00191321-2.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/sabavshvo/sabavshvo-aveji/sabavshvo-aveji-da-kompleqtebi/sabavshvo-skami-da-magidis-kompleqtebi/sabavshvo-merxi-da-skami-180-pink-vardisferi/"
+  },
+  {
+    "id": 385,
+    "category": "Мебель",
+    "sub_category": "Детская мебель",
+    "title": "Детский стол и стул 202 (розовый).",
+    "price": 135,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/77/BM-00191323__1__jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/77/BM-00191323__2_.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/sabavshvo/sabavshvo-aveji/sabavshvo-aveji-da-kompleqtebi/sabavshvo-skami-da-magidis-kompleqtebi/საბავშვო-მერხი-და-სკამი-202-pink-ვარდისფერი/"
+  }
+]

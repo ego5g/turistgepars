@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "category": "Освещение",
+    "sub_category": "Настольные лампы",
+    "title": "Настольная лампа AT22131 Basketball - Aonelite",
+    "price": 29,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/75/BM-00191083_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/75/BM-00191083-2.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/75/BM-00191083-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/ganateba/magidis-sanatebi-da-torsherebi/magidis-sanati/მაგიდის-სანათი-at22131-basketball-aonelite/"
+  },
+  {
+    "id": 3,
+    "category": "Освещение",
+    "sub_category": "Настольные лампы",
+    "title": "Настольная лампа AT22054 Panda Pink - Aonelite",
+    "price": 36,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/75/BM-00191085_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/75/BM-00191085-1.jpg",
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/75/BM-00191085-2.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/ganateba/magidis-sanatebi-da-torsherebi/magidis-sanati/მაგიდის-სანათი-at22054-panda-pink-aonelite/"
+  },
+  {
+    "id": 5,
+    "category": "Освещение",
+    "sub_category": "Настольные лампы",
+    "title": "Настольная лампа AT22054 Panda Light серо-коричневая - Aonelite",
+    "price": 36,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/75/BM-00191090_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/75/BM-00191090-1.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/ganateba/magidis-sanatebi-da-torsherebi/magidis-sanati/მაგიდის-სანათი-at22054-panda-light-taupe-aonelite/"
+  },
+  {
+    "id": 9,
+    "category": "Освещение",
+    "sub_category": "Настольные лампы",
+    "title": "Настольная лампа AT22134 Fox Pink - Aonelite",
+    "price": 36,
+    "description": "",
+    "availability": "Нет в наличии",
+    "in_stock": false,
+    "image_url": "https://gorgia.ge/images/ab__webp/thumbnails/1100/900/detailed/71/BM-00191131-1_jpg.webp",
+    "image_urls": [
+      "https://gorgia.ge/images/thumbnails/480/480/detailed/71/BM-00191131.jpg"
+    ],
+    "link": "https://gorgia.ge/ka/ganateba/magidis-sanatebi-da-torsherebi/magidis-sanati/მაგიდის-სანათი-at22134-fox-pink-aonelite/"
+  }
+]

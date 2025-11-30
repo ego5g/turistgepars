@@ -1,4 +1,4 @@
-[
+    [
       {
         "availability": "В наличии",
         "category": "Игрушки",
@@ -88,17 +88,6 @@
         "title": "Пазл геометрической формы AE-1420 UCAR"
       },
       {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Набор миниатюрных машинок для увлекательных игр дома и на улице. Отличный подарок маленьким автолюбителям.",
-        "id": 9,
-        "image_url": "https://i.ibb.co/qYXDr25z/e33befd0d80a.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-manqanebi-207/",
-        "price": 3,
-        "title": "Автомобили 207 UCAR"
-      },
-      {
         "availability": "В наличии",
         "category": "Игрушки",
         "description": "Многофункциональная игровая сумка с аксессуарами. Легко брать с собой, чтобы играть в любое время и в любом месте.",
@@ -130,17 +119,6 @@
         "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-roboti-g-05/",
         "price": 9,
         "title": "Робот UCAR G-05"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Полный игровой набор с рельсами, поездами и станциями. Идеально подойдёт для создания мини-железной дороги дома. Стимулирует внимание и воображение.",
-        "id": 13,
-        "image_url": "https://i.ibb.co/HDdkqKp2/7bbcf8b0cf5d.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/satamasho-matareblis-nakrebi-43-nawiliani-ucar/",
-        "price": 14,
-        "title": "Набор игрушечных поездов UCAR, 43 предмета"
       },
       {
         "availability": "В наличии",
@@ -231,17 +209,6 @@
         "title": "Медицинская аптечка 135 UCAR"
       },
       {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Прочный трактор UCAR с большими колёсами и подвижным ковшом. Отлично подойдёт для игр в песочнице и дома.",
-        "id": 22,
-        "image_url": "https://i.ibb.co/svKv5bG3/c6bff8b24d94.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ტრაქტორი-55-ucar/",
-        "price": 10,
-        "title": "Трактор 55 УКАР"
-      },
-      {
         "availability": "В наличии",
         "category": "Игрушки",
         "description": "Крупная лошадка на колёсиках — идеальный вариант для активных прогулок дома. Безопасная конструкция, устойчивая посадка и яркий дизайн.",
@@ -284,17 +251,6 @@
         "link": "https://gorgia.ge/ka/sabavshvo/satamasho/satamasho-manqana-30sm-05-ucar/",
         "price": 8,
         "title": "Игрушечная машинка 30 см 05 UCAR"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Большой грузовик длиной 42 см с подвижным кузовом. Подходит для игр с песком и перевозки игрушек. Прочный и надёжный.",
-        "id": 27,
-        "image_url": "https://i.ibb.co/x4DSNyY/93a48180bfc0.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/satvirto-manqana-42-sm-02-ucar/",
-        "price": 11,
-        "title": "Грузовик 42 см 02 UCAR"
       },
       {
         "availability": "В наличии",
@@ -352,17 +308,6 @@
         "title": "Магнит - алфавит и цифры - 90-184"
       },
       {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Стильный мотоцикл для юных гонщиков! Прочный корпус, яркий дизайн и реалистичные детали подарят вашему ребёнку море впечатлений от игры.",
-        "id": 33,
-        "image_url": "https://i.ibb.co/zHJ6BNwb/c1b8aa7f169d.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/moto-94-441/",
-        "price": 46,
-        "title": "Мото - 94-441"
-      },
-      {
         "availability": "В наличии",
         "category": "Игрушки",
         "description": "Классические шахматы для детей и взрослых. Развивают логику, внимание и стратегическое мышление. Отличный выбор для семейных вечеров!",
@@ -372,28 +317,6 @@
         "link": "https://gorgia.ge/ka/sabavshvo/satamasho/chadraki-93-192/",
         "price": 12,
         "title": "Шахматы – 93-192"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Очаровательный набор красоты для маленьких модниц! В комплекте всё необходимое для игры в салон красоты. Помогает развивать фантазию и творческое мышление.",
-        "id": 35,
-        "image_url": "https://i.ibb.co/TqBM3fzY/d53c0b9f45c7.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/silamazis-nakrebi-123-ucar/",
-        "price": 29,
-        "title": "Набор красоты 123 UCAR"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Яркий игровой набор кухни для детей с любимыми персонажами. Отличный способ познакомить ребёнка с бытом через увлекательную игру.",
-        "id": 36,
-        "image_url": "https://i.ibb.co/fGNQ00WP/45163f61bf99.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/princesa-uniqornis-samzareulos-nakrebi-125-ucar/",
-        "price": 29,
-        "title": "Кухонный гарнитур Princess Unicorn 125 UCAR"
       },
       {
         "availability": "В наличии",
@@ -438,225 +361,5 @@
         "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ბუშტების-გასაბერი-მანქანა-05-121/",
         "price": 4,
         "title": "Машина для выдувания пузырей - 05-121"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Магнитная доска с маркером и буквами — идеальный способ учиться писать и считать весело! Отлично подходит для раннего развития.",
-        "id": 41,
-        "image_url": "https://i.ibb.co/8zbn6wj/magnetic-board.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/magnituri-fartavi-90-201/",
-        "price": 7,
-        "title": "Магнитная доска 90-201"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Кассовый аппарат с аксессуарами поможет ребёнку почувствовать себя настоящим продавцом. Развивает математические навыки и коммуникацию.",
-        "id": 42,
-        "image_url": "https://i.ibb.co/5Y1WLWQ/cash-register.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/sachukari-aparati-105-ucar/",
-        "price": 25,
-        "title": "Игровой кассовый аппарат 105 UCAR"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Набор детской посуды — отличный вариант для ролевых игр. Все элементы безопасны, лёгкие и красочные, подходят для малышей от 3 лет.",
-        "id": 43,
-        "image_url": "https://i.ibb.co/3spBmxZ/kitchen-set.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/samzareulo-ucar-132/",
-        "price": 10,
-        "title": "Игровая посудка UCAR 132"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "3D-конструктор «Город» — развивает пространственное мышление и воображение. Из деталей можно собрать целый мини-город с дорогами и зданиями.",
-        "id": 44,
-        "image_url": "https://i.ibb.co/mCzfr45/3d-city.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/konstruqtori-3d-qalaqi/",
-        "price": 12,
-        "title": "Конструктор 3D - Город"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Суперскоростная машинка UCAR Racing с реалистичным дизайном и мощными колёсами. Прочный корпус выдерживает активную игру дома и на улице.",
-        "id": 45,
-        "image_url": "https://i.ibb.co/zx5WFYx/racing-car.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-racing-222/",
-        "price": 18,
-        "title": "Машинка UCAR Racing 222"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Большой набор железной дороги с паровозом, вагонами и станцией. Реалистичные звуки и свет делают игру захватывающей и познавательной.",
-        "id": 46,
-        "image_url": "https://i.ibb.co/9y3JxD4/train-set.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-treni-310/",
-        "price": 38,
-        "title": "Железная дорога UCAR Train 310"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Красочный пазл с изображениями животных Африки развивает внимание, логическое мышление и усидчивость. Подходит детям от 4 лет.",
-        "id": 47,
-        "image_url": "https://i.ibb.co/LrTGW1Z/africa-puzzle.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/pazli-qartuli-afrikis-tskhoveli/",
-        "price": 6,
-        "title": "Пазл «Животные Африки»"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Большой конструктор UCAR из 400 деталей — простор для творчества! Можно собирать здания, транспорт и животных. Совместим с другими наборами.",
-        "id": 48,
-        "image_url": "https://i.ibb.co/9cH09Ct/blocks.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-blocks-400/",
-        "price": 22,
-        "title": "Конструктор UCAR Blocks 400 деталей"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Кухня UCAR Deluxe с духовкой, посудой и реалистичными звуками — мечта каждой девочки! Помогает развивать самостоятельность и фантазию.",
-        "id": 49,
-        "image_url": "https://i.ibb.co/4MWXLhm/deluxe-kitchen.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-deluxe-501/",
-        "price": 44,
-        "title": "Игровая кухня UCAR Deluxe 501"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Полицейская машина UCAR с мигающими огнями и сиреной. Прочная, маневренная и идеально подходит для активных игр дома и на улице.",
-        "id": 50,
-        "image_url": "https://i.ibb.co/6yz3Ztk/police-car.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-police-88/",
-        "price": 14,
-        "title": "Машина UCAR Police Car 88"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Очаровательная кукла Bella от UCAR — лучший подарок для маленьких принцесс. Гибкие руки и ноги, красивое платье и длинные волосы для причёсок. Развивает заботу и воображение.",
-        "id": 51,
-        "image_url": "https://i.ibb.co/VBvM2pM/bella-doll.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-bella-303/",
-        "price": 19,
-        "title": "Кукла UCAR Bella 303"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Конструктор «Пожарная станция» включает технику, фигурки и детали для спасательных миссий. Отличный набор для развития логики и фантазии ребёнка.",
-        "id": 52,
-        "image_url": "https://i.ibb.co/Lz5YdCZ/fire-station.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-fire-station-420/",
-        "price": 27,
-        "title": "Конструктор UCAR Fire Station 420"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Набор доктора UCAR включает безопасные инструменты, халат и аптечку. Ребёнок сможет играть в врача, развивая эмпатию и ответственность.",
-        "id": 53,
-        "image_url": "https://i.ibb.co/gm3Yd3z/doctor-kit.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-doctor-kit-270/",
-        "price": 16,
-        "title": "Игровой набор врач UCAR Doctor Kit 270"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Безопасный детский бластер с мягкими пулями и удобной рукояткой. Подходит для игр дома и на улице. Стимулирует реакцию и координацию движений.",
-        "id": 54,
-        "image_url": "https://i.ibb.co/CHpqHhf/softgun.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-softgun-560/",
-        "price": 15,
-        "title": "Пистолет с мягкими пулями UCAR SoftGun 560"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Машина-трансформер превращается из авто в робота за секунду! Прочный пластик, яркий дизайн и подвижные детали делают игру захватывающей.",
-        "id": 55,
-        "image_url": "https://i.ibb.co/FxZgbjD/transformer.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-transformer-220/",
-        "price": 13,
-        "title": "Машина-трансформер UCAR Transformer 220"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Классическая настольная игра «Морской бой» в компактном формате. Развивает логику и внимание. Отлично подходит для путешествий и отдыха всей семьёй.",
-        "id": 56,
-        "image_url": "https://i.ibb.co/5sDJGgc/battleship.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-morski-boi-501/",
-        "price": 9,
-        "title": "Настольная игра «Морской бой» UCAR 501"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Мягкий пупс с бутылочкой, соской и набором для ухода. Помогает детям развивать заботу, внимание и эмоциональное восприятие.",
-        "id": 57,
-        "image_url": "https://i.ibb.co/SxM6SCQ/baby-doll.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-baby-care-312/",
-        "price": 22,
-        "title": "Пупс с аксессуарами UCAR Baby Care 312"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Конструктор «Космический исследователь» с ракетой, станцией и фигурками. Идеален для маленьких мечтателей, интересующихся космосом и техникой.",
-        "id": 58,
-        "image_url": "https://i.ibb.co/Dks0s0f/space-explorer.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-space-explorer-450/",
-        "price": 28,
-        "title": "Конструктор UCAR Space Explorer 450"
-      },
-      {
-        "availability": "Нет в наличии",
-        "category": "Игрушки",
-        "description": "Большой кукольный дом с мебелью и аксессуарами. Три этажа, открывающиеся двери и окна — всё для ярких сюжетных игр.",
-        "id": 59,
-        "image_url": "https://i.ibb.co/zVVwKpM/dollhouse.webp",
-        "in_stock": false,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-dreamhouse-600/",
-        "price": 49,
-        "title": "Кукольный дом UCAR DreamHouse 600"
-      },
-      {
-        "availability": "В наличии",
-        "category": "Игрушки",
-        "description": "Весёлая настольная игра «Лото животных» — помогает детям запоминать зверей и тренирует память. Яркие картинки и простые правила понравятся всей семье.",
-        "id": 60,
-        "image_url": "https://i.ibb.co/Wf7LFz6/animal-lotto.webp",
-        "in_stock": true,
-        "link": "https://gorgia.ge/ka/sabavshvo/satamasho/ucar-loto-tskhovelta-99/",
-        "price": 6,
-        "title": "Настольная игра «Лото животных» UCAR 99"
       }
     ]
